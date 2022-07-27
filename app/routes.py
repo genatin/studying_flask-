@@ -2,6 +2,7 @@ from app import app
 from generating_view import generate_view
 from flask import request
 
+
 post = []
 
 @app.route('/')
