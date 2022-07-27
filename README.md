@@ -2,4 +2,6 @@
 
 ### Start programm
  - sudo bash start.sh
-Servers is going on `http://localhost:56733/`
+
+
+Server is going on `http://localhost:56733/`
